@@ -1,0 +1,5 @@
+streamlit
+gTTS
+streamlit-webrtc
+numpy
+av
